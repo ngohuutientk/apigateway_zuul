@@ -17,4 +17,9 @@ public class SpringBootZuulgatwayproxyApplicationTests {
 	public void test2() {
 
 	}
+
+	@Test
+	public void test3() {
+
+	}
 }
