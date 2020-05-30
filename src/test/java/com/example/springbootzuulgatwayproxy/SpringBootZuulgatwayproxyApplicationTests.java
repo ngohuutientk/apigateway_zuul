@@ -13,4 +13,8 @@ public class SpringBootZuulgatwayproxyApplicationTests {
 	public void contextLoads() {
 	}
 
+	@Test
+	public void test2() {
+
+	}
 }
